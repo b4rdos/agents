@@ -12,6 +12,6 @@ OPENROUTER_API_URL = "https://openrouter.ai/api/v1"
 OPENROUTER_API_MODEL = "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
 OPENROUTER_API_MODELS = {
     "poolside": "poolside/laguna-s-2.1:free",
-    "thinkingmachines": "thinkingmachines/inkling:free",
     "nvidia": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "cohere": "cohere/north-mini-code:free",
 }
