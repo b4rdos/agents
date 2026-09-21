@@ -1,0 +1,103 @@
+Skills
+
+Technical
+●​ Programming Languages: Python (Proficient), JavaScript, Rust, Java, Go, C++
+●​ AI/ML Frameworks & Libraries: PyTorch, TensorFlow / Keras, XGBoost, Hugging
+Face, Scikit-learn, NLTK, Spacy, Pandas / Polars
+●​ Cloud & MLOps: AWS, Docker, Kubernetes, Apache Airflow, Apache Spark,
+MLFlow, Ansible, Terraform, Databricks Workflows
+●​ Data & Databases: SQL, NoSQL (PostgreSQL, Neo4j), Solr, Looker, DataBricks
+Notebook / Dashboard
+●​ Web & APIs: gRPC, FastAPI, Django, React
+●​ Prototyping: Streamlit, H2O Wave, Reflex, FastHTML
+
+Leadership & Project Management
+●​ Team Leadership
+●​ Project Ownership & Delivery
+●​ Strategic Planning
+●​ Stakeholder Communication
+●​ Mentorship & Development
+
+
+Work Experience
+
+Senior Data Scientist - Data Intelligence Team - 90PoE, remote, UK
+02/2022 - Present
+●​ Lead the end-to-end development and deployment of the first full production AI service,
+encompassing API design, system architecture, and solution implementation for
+real-time intelligence. Achieved 80% performance improvement through algorithm
+redesign and vectorization, demonstrating strong software engineering and optimization
+skills.
+●​ Spearheaded a Proof of Concept (PoC) for a novel AI-driven product offering
+focused on complex optimization problems, assessing technical feasibility and
+strategic value.
+●​ Leveraged PyTorch and Lightning framework for designing and training neural
+network models, integrating MLFlow for robust MLOps practices including
+experimentation tracking and model versioning.
+●​ Engineered model quality dashboards and automated validation processes,
+significantly enhancing the efficiency of model deployment and preventing flawed
+models from reaching production, ensuring system reliability and data integrity.
+
+Senior Data Scientist - Decision Science Team - Signifyd, Belfast, UK.
+07/2021 - 02/2022
+●​ Orchestrated a successful Proof of Concept (PoC) engagement with a key client,
+demonstrating the efficacy of AI/ML solutions by defining experimental design
+and measurable success metrics.
+●​ Conducted deep analysis of client data to identify high-impact fraud risk areas,
+implementing robust features within a Java-based internal rules and features
+engine to enhance real-time threat identification capabilities.
+●​ Enhanced predictive model performance through advanced feature engineering
+and hyper-parameter optimization techniques.
+●​ Provided technical mentorship and guidance to new hires and junior engineers,
+fostering a collaborative, high-performance team culture and aligning objectives
+with strategic goals.
+
+Data Scientist - Decision Science Team - Signifyd, Belfast, UK
+02/2019 - 07/2021
+●​ Instrumental in establishing the Belfast R&D office's initial Data Science
+capabilities, actively participating in recruitment and onboarding to build
+foundational team strength.
+●​ Developed, deployed, and monitored a production-grade fraud detection model
+for the inaugural chargeback product, owning the full model lifecycle from design
+to continuous updates.
+●​ Translated complex data insights into actionable recommendations for internal
+stakeholders, utilising Looker BI for clear and concise communication with
+non-technical audiences.
+R&D Team Lead - Mintel Group LTD, Belfast, UK
+04/2018 - 02/2019
+●​ Managed and directly mentored a team of 5 R&D professionals, overseeing
+performance, career development, and fostering a productive team environment.
+●​ Defined and managed R&D projects, implementing a tailored SCRUM
+methodology to optimize development cycles and ensure efficient project
+delivery.
+●​ Successfully delivered the team's inaugural productionized AI/ML solution,
+demonstrating capability in bringing complex R&D initiatives to operational
+readiness.
+
+Data Scientist - R&D Team – Mintel Group LTD, Belfast, UK
+06/2015 - 04/2018
+●​ Engineered and implemented Natural Language Processing (NLP) solutions,
+including text classification, topic extraction, and spell correction, for analyzing
+textual data.
+●​ Developed computer vision capabilities using OpenCV for identifying text regions
+within images and employing OCR for automated text extraction, supporting
+image and video analysis.
+●​ Contributed to the design and development of data processing pipelines and
+supporting infrastructure for ML model training and validation, ensuring efficient
+data acquisition and management.
+Software Engineer - Mintel Group LTD, London, UK
+07/2014 - 05/2015
+●​ As a Full Stack Developer within a cross-continent Scrum team, contributed to
+the development of new features for high-visibility web-based products.
+●​ Developed internal applications leveraging Django and Solr search platform.
+●​ Designed and implemented interactive data visualizations using d3.js to enhance
+user experience and data comprehension.
+
+Education
+Diploma of Electrical and Computer Engineering
+Faculty of Engineering Aristotle University of Thessaloniki, GR
+Diploma Thesis: Autonomous battle tactiques generation for RTS games using
+Neuroevolution. Design and implement an intelligent software agent with the purpose of
+controlling military units in an RTS game. Use of Artificial Neural Networks for
+processing data from the game's environment and an evolutionary algorithm for online
+training.
