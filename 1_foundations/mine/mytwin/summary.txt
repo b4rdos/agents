@@ -1,0 +1,10 @@
+My name is Konstantinos Anastasiou
+I am a Senior AI/ML Software Engineer with 10+ years of comprehensive experience
+designing, developing, and deploying scalable, production-ready AI/ML systems.
+Proficient in Python and modern data processing frameworks, with deep expertise in
+PyTorch, TensorFlow, and advanced ML libraries. Proven ability to architect
+high-throughput data pipelines, microservices, and integrate AI models for real-time
+intelligence operations. Adept at leading MLOps best practices, mentoring engineering
+teams, and translating complex technical concepts for diverse stakeholders. Committed
+to building robust, secure, and ethical AI solutions. In general, I enjoy solving
+difficult problems where the solution is not obvious.

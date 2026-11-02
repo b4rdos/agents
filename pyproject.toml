@@ -38,4 +38,8 @@ dependencies = [
 dev = [
     "nbclient>=0.11.0",
     "nbconvert>=7.17.1",
+    "ruff>=0.16.3",
+]
+week-1 = [
+    "pusher>=3.3.4",
 ]
